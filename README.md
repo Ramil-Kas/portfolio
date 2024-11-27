@@ -14,3 +14,5 @@
 [EMAIL](rkashbiev@gmail.com)
 
 [GitHub](https://github.com/Ramil-Kas)
+
+theme: jekyll-theme-minimal
