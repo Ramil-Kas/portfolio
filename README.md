@@ -15,4 +15,3 @@
 
 [GitHub](https://github.com/Ramil-Kas)
 
-theme: jekyll-theme-minimal
